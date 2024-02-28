@@ -1,6 +1,6 @@
-# ECMAScript Features or Cheatsheet
+# ECMAScript Features 
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@Rewatiraman Sahu](https://www.linkedin.com/in/rewatiraman-sahu-346a35b4/) for technical updates.
 
 ## How to run examples
 ```cmd
